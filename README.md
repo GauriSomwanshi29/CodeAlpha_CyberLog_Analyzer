@@ -11,6 +11,15 @@
 
 The application processes security log files, analyzes authentication events, and presents meaningful security insights through an interactive web dashboard.
 
+
+## 🌐 Live Demo
+
+🚀 **Explore CyberLog Analyzer Live:**
+
+🔗 https://cyberlog-analyzer.netlify.app/
+
+Experience the interactive security dashboard and explore its features.
+
 ---
 
 ## 📌 Project Overview
