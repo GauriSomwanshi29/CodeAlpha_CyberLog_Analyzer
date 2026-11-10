@@ -122,7 +122,7 @@ Make sure the following tools are installed:
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/GauriSomwanshi29/CodeAlpha_CyberLog_Analyzer
 ```
 
 **2. Navigate to the project directory**
