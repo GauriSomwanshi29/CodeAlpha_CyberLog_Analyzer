@@ -214,4 +214,4 @@ Developed as part of the **CodeAlpha DevOps Internship Program**.
 
 ⭐ If you find this project interesting, consider giving this repository a star!
 
-**Built with ❤️ by Gauri Somwanshi**
+**Built by Gauri Somwanshi❤️**
